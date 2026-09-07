@@ -13,7 +13,6 @@ cava
 chafa
 cliphist
 cmake
-discord
 fastfetch
 file-roller
 firefox
@@ -70,7 +69,6 @@ slurp
 snap-pac
 snapper
 sof-firmware
-spotify-launcher
 steam
 sudo
 swaync

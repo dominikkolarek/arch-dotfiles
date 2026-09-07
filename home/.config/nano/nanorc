@@ -7,17 +7,17 @@ set tabstospaces
 set softwrap
 set mouse
 
-set titlecolor      #111,#89b
-set numbercolor     #679
-set statuscolor     #111,#89b
-set keycolor        #89b
-set functioncolor   #abc
-set promptcolor     #ddd,#111
-set selectedcolor   #111,#abc
-set stripecolor     #444
-set scrollercolor   #89b
-set spotlightcolor  #111,#abc
-set minicolor       #ddd
-set errorcolor      #111,#d88
+set titlecolor      #011,#6ad
+set numbercolor     #58a
+set statuscolor     #011,#6ad
+set keycolor        #6ad
+set functioncolor   #9cd
+set promptcolor     #cde,#112
+set selectedcolor   #011,#9cd
+set stripecolor     #345
+set scrollercolor   #6ad
+set spotlightcolor  #011,#9cd
+set minicolor       #cde
+set errorcolor      #011,#d88
 
 include "/usr/share/nano/*.nanorc"
